@@ -7,14 +7,12 @@ import { SubHeading } from "../../components";
 const Chef = () => (
   <div className="app__bg app__wrapper section__padding">
     <div className="app__wrapper_img app__wrapper_img-reverse">
-      <img src={images.vafla} alt="chef_image" />
+      <img src={images.chef} alt="chef_image" />
     </div>
     <div className="app__wrapper_info">
       <SubHeading title="Chef's Word" />
       <h1 className="headtext__cormorant">
-        Give me your skeleton, A-I-O-P-M Fortnite balls,
-        <br /> I'm gay I like boys <br /> I kidnap autistic kids <br /> Lil
-        Mosey is watching, T. Rex
+        What We Believe In
       </h1>
 
       <div className="app__chef-content">
@@ -33,9 +31,9 @@ const Chef = () => (
       </div>
 
       <div className="app__chef-sign">
-        <p>Maryan "Vafla" Pinzel</p>
+        <p>Kevin Luo</p>
         <p className="p__opensans">Chef & Founder</p>
-        <img src={images.signatureVafla} alt="sign_image" />
+        <img src={images.sign} alt="sign_image" />
       </div>
     </div>
   </div>

@@ -31,7 +31,8 @@
 }
 
 .app__navbar-links li:hover {
-  color: var(--color-grey);
+  color: var(--color-golden);
+  transition: 0.5s ease;
 }
 
 .app__navbar-login {

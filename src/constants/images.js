@@ -20,18 +20,8 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
-import vetal from '../assets/image.png';
-import vafla from '../assets/photo_2023-01-27_00-14-55.jpg';
-import signatureVafla from '../assets/agent_kgb.png';
-import megaDayn from '../assets/photo_2023-01-01_03-14-43.png';
-import maryanCock from '../assets/photo_2022-12-14_18-09-52.jpg';
 
 export default {
-  megaDayn,
-  maryanCock,
-  signatureVafla,
-  vafla,
-  vetal,
   bg,
   chef,
   G,
